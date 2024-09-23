@@ -1,0 +1,13 @@
+.showResults{
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    margin: 20px;
+}
+
+body{
+    background-color: darkslategray;
+}
+
